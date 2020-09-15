@@ -2,7 +2,7 @@
 title: "معرفی"
 date: 2020-02-29T11:02:05+06:00
 icon: "ti-clipboard"
-description: "معرفی سامانه،آشنایی با برخی امکانات"
+description: ""
 type : "docs"
 ---
 * [امکانات سامانه](#امکانات-سامانه)
