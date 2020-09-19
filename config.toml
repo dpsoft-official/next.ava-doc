@@ -23,29 +23,19 @@ url = "start"
 weight = 1
 
 [[menu.main]]
-name = "صاحب سازمان"
-url = "organizer"
-weight = 2
-
-[[menu.main]]
-name = "سرپرست گروه"
+name = "راهنما سامانه"
 url = "administrator"
-weight = 3
-
-[[menu.main]]
-name = "مشاور"
-url = "consultant"
-weight = 4
+weight = 2
 
 [[menu.main]]
 name = "سوالات متداول"
 url = "faq"
-weight = 5
+weight = 3
 
 [[menu.main]]
 name = "ارتباط با ما"
 url = "contact"
-weight = 6
+weight = 4
 
 
 ############################# Default Parameters ##########################

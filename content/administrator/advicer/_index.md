@@ -1,10 +1,7 @@
 ---
 title: "مشاور"
-date: 2020-02-29T11:02:05+06:00
-icon: "ti-clipboard"
-description: ""
-type : "docs"
 ---
+
 #### داشبورد 
 #### پیگیری ها 
 
