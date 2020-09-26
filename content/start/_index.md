@@ -2,7 +2,7 @@
 title: "معرفی"
 date: 2020-02-29T11:02:05+06:00
 icon: "ti-clipboard"
-description: ""
+description: ".با سامانه آوا بیشتر آشنا شوید"
 type : "docs"
 ---
 * [امکانات سامانه](#امکانات-سامانه)

@@ -2,7 +2,7 @@
 title: "راهنما سامانه"
 date: 2020-01-29T11:02:05+06:00
 icon: "ti-menu-alt"
-description: " "
+description: " .با امکانات این سامانه بیشتر آشنا شوید"
 type : "docs"
 ---
 
@@ -12,6 +12,7 @@ type : "docs"
 
 http://demo.ava-crm.ir/login
 
+در ادامه با کارکرد بخش های مختلف سامانه خواهید شد. 
   
 
 
