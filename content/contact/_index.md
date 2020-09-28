@@ -16,7 +16,7 @@ draft: false
           <div  class="px-4 py-5 bg-white shadow text-center d-block match-height" style="height: 251px;">
             <i class="ti-email icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">ایمیل</h3>
-            <p class="mb-0">info@mehrlms.ir</p>
+            <p class="mb-0">info@ava-crm.ir</p>
           </div>
 </div>
 
