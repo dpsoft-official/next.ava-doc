@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://docs.mehrlms.ir/"
+baseURL = "https://docs.ava-crm.ir/"
 # theme
 theme = "dot"
 # site title
@@ -68,7 +68,7 @@ link = "https://www.instagram.com/dpsoft.ir/"
 
 [[params.social]]
 icon = "ti-video-clapper" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.aparat.com/mehrlms.ir"
+link = "https://www.aparat.com/dpsoft"
   
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
