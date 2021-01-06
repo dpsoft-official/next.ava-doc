@@ -787,7 +787,7 @@ li.sidelist li a {
 }
 
 .sidelist li.sidelist.active a {
-  color: var(--primary-color);
+  color: var(--text-color-dark);
 }
 
 .sidelist li.sidelist.active::before{
@@ -803,7 +803,7 @@ li.sidelist li a {
 }
 
 .sidelist li a {
-  color: var(--text-color-dark);
+  color: var(--primary-color);
   display: block;
   font-size: 15px;
   font-weight: 500;

@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://docs.ava-crm.ir/"
+baseURL = "https://docs.ava-crm.ir"
 # theme
 theme = "dot"
 # site title

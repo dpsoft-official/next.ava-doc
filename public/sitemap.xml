@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/</loc>
+    <lastmod>2020-02-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/start/</loc>
+    <lastmod>2020-02-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/administrator/</loc>
+    <lastmod>2020-01-29T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/faq/</loc>
+    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/administrator/quickstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/administrator/organizer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://docs.ava-crm.ir/administrator/advicer/</loc>
+  </url>
+  
+</urlset>
