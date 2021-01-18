@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="cd5a6279-75e9-4afe-b6c4-a6934ce5214d" name="ava-crm">
-        <fileTransfer rootFolder="/home/ava-crm/domains/docs.ava-crm.ir/public_html" accessType="SFTP" host="ava-crm.ir" port="22" sshConfigId="c2873f58-4a85-47f3-9b65-daab02e09bc3" sshConfig="ava-crm@ava-crm.ir:22 password">
+      <webServer id="cd5a6279-75e9-4afe-b6c4-a6934ce5214d" name="ava-crm" url="https://docs-next.ava-crm.ir">
+        <fileTransfer rootFolder="/home/ava-crm/domains/docs-next.ava-crm.ir/public_html" accessType="SFTP" host="ava-crm.ir" port="22" sshConfigId="c2873f58-4a85-47f3-9b65-daab02e09bc3" sshConfig="ava-crm@ava-crm.ir:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

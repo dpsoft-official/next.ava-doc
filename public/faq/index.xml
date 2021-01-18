@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>سوالات متداول on راهنمای سامانه آوا</title>
-    <link>https://docs.ava-crm.ir/faq/</link>
+    <link>https://docs-next.ava-crm.ir/faq/</link>
     <description>Recent content in سوالات متداول on راهنمای سامانه آوا</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>سامانه‌ی ارتباط با مشتری [آوا](https://ava-crm.ir)</copyright>
-    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://docs.ava-crm.ir/faq/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://docs-next.ava-crm.ir/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

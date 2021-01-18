@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://docs.ava-crm.ir"
+baseURL = "https://docs-next.ava-crm.ir"
 # theme
 theme = "dot"
 # site title
@@ -17,25 +17,21 @@ unsafe= true
 ################################# navigation ################################
 [[menu.main]]
 
-[[menu.main]]
-name = "معرفی"
-url = "start"
-weight = 1
 
 [[menu.main]]
-name = "راهنما سامانه"
+name = "راهنما"
 url = "administrator"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "سوالات متداول"
 url = "faq"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "ارتباط با ما"
 url = "contact"
-weight = 4
+weight = 3
 
 
 ############################# Default Parameters ##########################

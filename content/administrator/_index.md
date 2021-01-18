@@ -19,7 +19,7 @@ https://next.ava-crm.ir/login
  
 * [سازمان](organizer)
 
-* [مشاور](advicer)
+* [مشاور](advertiser)
 
 
 
