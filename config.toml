@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://doc.dpsoft.ir"
+baseURL = "https://docs-next.ava-crm.ir"
 # theme
 theme = "dot"
 # site title
