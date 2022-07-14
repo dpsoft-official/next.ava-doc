@@ -27,18 +27,8 @@ draft: false
             <p class="mb-0">09194670922</p>
           </div>
 </div>
-<p>
-</p>
 </div>
 </div>
   <div class="row" style="margin-top: 30px">
-            <div class="col-12">
-                <h2 class="section-title text-primary"></h2>
-                        <div id="i67Spnt">
-                      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSefc2HPKMUjD7X_Q4uVzDXbSgu3T__Rira_O0ldi_2nvrcBCA/viewform?embedded=true" width="640" height="674" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-                      </div>
-
-            </div>
-            <div class="col-12">
-            </div>
-        </div>
+            <div class="col-12"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSefc2HPKMUjD7X_Q4uVzDXbSgu3T__Rira_O0ldi_2nvrcBCA/viewform?embedded=true" width="640" height="674" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div></div>
