@@ -80,7 +80,7 @@ languageName = "En"
 languageCode = "en-us"
 weight = 1
 home = "خانه"
-copyright = "سامانه‌ی ارتباط با مشتری [آوا](https://ava-crm.ir)"
+copyright = "سامانه‌ی ارتباط با مشتری [آوا](https://avaa-crm.ir)"
 
 # banner
 [Languages.en.params.banner]
