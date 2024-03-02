@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://dpsoft-official.github.io/next.ava-doc"
+baseURL = "https://docs-next.ava-crm.ir"
 # theme
 theme = "dot"
 # site title
